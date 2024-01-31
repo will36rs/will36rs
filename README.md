@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-![](https://img.shields.io/badge/LinkedIn-will36rs-0A66C2?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-will36rs-0A66C2?logo=linkedin)](https://www.linkedin.com/in/will36rs/)
 
 I've been solving problems by crafting software for 10+ years.
 
