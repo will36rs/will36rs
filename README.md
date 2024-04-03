@@ -18,5 +18,6 @@ At INPE, I also maintained geographic information systems for monitoring wildfir
 I hold [Professional Scrum Master I](https://www.scrum.org/assessments/professional-scrum-master-i-certification) (PSM I), [Professional Scrum Product Owner I](https://www.scrum.org/assessments/professional-scrum-product-owner-i-certification) (PSPO I), and [Professional Scrum with Kanban I](https://www.scrum.org/assessments/professional-scrum-with-kanban-certification) (PSK I) certifications since 2023.
 I achieved accreditation as a [Scrum Kanban Practitioner](https://kanban.university/kanban-development-path/sbk/) (SKP) in 2023 and as a [Team Kanban Practitioner](https://kanban.university/kanban-development-path/tkp/) (TKP) in 2020.
 I'm also a [Certified Associate in Project Management](https://www.pmi.org/certifications/certified-associate-capm) (CAPM) since 2021.
+
 I earned an associate degree in IT management from [Fatec Guaratinguetá](https://www.cps.sp.gov.br/fatecs/fatec-guaratingueta-prof-joao-mod/) in 2016 and a high school diploma from [CTIG/Unesp](https://www.feg.unesp.br/#!/cotec) in 2009.
 I'm currently pursuing a graduate certificate in software architecture at [FIAP](https://www.fiap.com.br/) and also undergoing vocational training to become a real estate agent at [Senac-RS](https://www.senacrs.com.br/).
